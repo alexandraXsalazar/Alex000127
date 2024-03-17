@@ -1,7 +1,7 @@
 ### HIIII 👋
 
 MY NAME IS ALEXANDRA!
-- 🌱 I’m currently learning web develpment
+- 🌱 I’m currently learning web development
   
-- love programing, and learning, future software engineer 🤓
+- love programming, and learning, future software engineer 🤓
 
