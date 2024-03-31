@@ -48,12 +48,12 @@ User
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h3 align="center">My github Stats</h3>
+<h3 align="center">My Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Alex000127" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Alex000127's Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Alex000127" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Alex000127's GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="Alex000127" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="Alex000127's GitHub Streak" /></p>
 
-<hr width="60%">
+<hr>
