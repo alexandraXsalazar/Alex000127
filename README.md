@@ -50,10 +50,16 @@ User
 
 <h3 align="center">My Github Stats</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Alex000127's Top Languages" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Alex000127's Top Languages" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Alex000127's GitHub Stats" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Alex000127's GitHub Stats" />
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="Alex000127's GitHub Streak" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="Alex000127's GitHub Streak" />
+</p>
 
 <hr>
