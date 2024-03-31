@@ -14,7 +14,7 @@
 - 🌱 Currently diving into the world of web development.
 - ❤️ Passionate about web technologies; aspiring software engineer 🤓.
 
-## 💚My Favorites:
+## 💚My Favsss:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
