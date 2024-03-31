@@ -74,6 +74,6 @@ User
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/axdxrxsx?igsh=MmUxNjh4bHFtbmpu&utm_source=qr">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
-      </div>
+</div>
 
 </p>
