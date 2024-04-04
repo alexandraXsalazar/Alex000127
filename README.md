@@ -12,7 +12,7 @@
 
 
 - 🌱 Currently diving into the world of web development.
-- ❤️ Passionate about web technologies; aspiring software engineer 🤓.
+- ❤️ Passionate about web technologies; aspiring fullstack web developer 🤓.
 
 ## 💚My Favsss:
 
