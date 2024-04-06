@@ -31,7 +31,8 @@
 
 - **💾Database**:
 
-![SQLite](https://img.shields.io/badge/sqlite--323330.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **📚Frameworks**:
 
