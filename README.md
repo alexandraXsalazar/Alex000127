@@ -52,18 +52,24 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h3 align="center">My Github Stats</h3>
+<h3 align="center">Mis Estadísticas de GitHub</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Alex000127's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex000127&show_icons=true&theme=dark&locale=en&layout=compact" alt="Los lenguajes principales de Alex000127" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Alex000127's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex000127&show_icons=true&theme=dark&locale=en" alt="Las estadísticas de GitHub de Alex000127" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="Alex000127's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="La racha de GitHub de Alex000127" />
+</p>
+
+<h3 align="center">Actividad en Repositorios Privados</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex000127&layout=compact&hide=html&custom_title=Actividad%20en%20Repositorios%20Privados&langs_count=5&theme=dark" alt="Actividad en Repositorios Privados de Alex000127" />
 </p>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
