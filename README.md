@@ -66,11 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex000127&theme=dark" alt="La racha de GitHub de Alex000127" />
 </p>
 
-<h3 align="center">Actividad en Repositorios Privados</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex000127&layout=compact&hide=html&custom_title=Actividad%20en%20Repositorios%20Privados&langs_count=5&theme=dark" alt="Actividad en Repositorios Privados de Alex000127" />
-</p>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Alex000127">
